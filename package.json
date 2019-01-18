@@ -1,0 +1,19 @@
+{
+  "name": "nightwatch-windows-chromedriver-error",
+  "version": "1.0.0",
+  "scripts": {
+    "nightwatch": "nightwatch ./nightwatch.js --verbose",
+    "chromedriver": "chromedriver -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswoodle/nightwatch-windows-chromedriver-bug.git"
+  },
+  "author": "Chris Woodle",
+  "license": "ISC",
+  "homepage": "https://github.com/chriswoodle/nightwatch-windows-chromedriver-bug#readme",
+  "dependencies": {
+    "chromedriver": "^2.45.0",
+    "nightwatch": "^1.0.18"
+  }
+}
