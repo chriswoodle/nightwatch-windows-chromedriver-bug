@@ -2,7 +2,7 @@
   "name": "nightwatch-windows-chromedriver-error",
   "version": "1.0.0",
   "scripts": {
-    "nightwatch": "nightwatch ./nightwatch.js --verbose",
+    "nightwatch": "nightwatch ./test/nightwatch.js --verbose",
     "chromedriver": "chromedriver -v"
   },
   "repository": {
